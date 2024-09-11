@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D02B4A14-11C0-4902-BF36-B59EC2DA3E22"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7ABEAD3F-670B-4667-BD94-B542F71140C3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InterViewPreperation/ARCVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "isSubsequence(_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "410EF948-C9F9-42A8-9B36-52C7E371B729"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InterViewPreperation/ARCVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "isSubsequence(_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "724D33A9-3CBB-4FC3-9DC3-7F1AB5322A07"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InterViewPreperation/ARCVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "groupAnagrams(_:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "724D33A9-3CBB-4FC3-9DC3-7F1AB5322A07 - 26e793dd5617e61f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InterViewPreperation.groupAnagrams(Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.String&gt;&gt;"
+                  moduleName = "InterViewPreperation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pradeep.yeligandla/Documents/iOS-Techncial-Q/InterViewPreperation/InterViewPreperation/ARCVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "724D33A9-3CBB-4FC3-9DC3-7F1AB5322A07 - 26e793dd5617e61f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InterViewPreperation.groupAnagrams(Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.String&gt;&gt;"
+                  moduleName = "InterViewPreperation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pradeep.yeligandla/Documents/iOS-Techncial-Q/InterViewPreperation/InterViewPreperation/ARCVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "724D33A9-3CBB-4FC3-9DC3-7F1AB5322A07 - 26e793dd5617e61f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InterViewPreperation.groupAnagrams(Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.String&gt;&gt;"
+                  moduleName = "InterViewPreperation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pradeep.yeligandla/Documents/iOS-Techncial-Q/InterViewPreperation/InterViewPreperation/ARCVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "201">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85BD2B4C-DB7E-4A43-A622-7773BFA0E4C0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InterViewPreperation/ARCVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "merge(_:_:_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0B284A3-24B2-484F-96F7-5937F686297C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InterViewPreperation/ARCVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "merge(_:_:_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16C2A6FA-7823-4735-A2C5-908350D6A098"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InterViewPreperation/ARCVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "merge(_:_:_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "390FB84A-8D45-478D-B4C4-CEDFBC4E946F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InterViewPreperation/ARCVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "mergingTwoArrays()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "390FB84A-8D45-478D-B4C4-CEDFBC4E946F - b2c0b2a8bbf33eee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InterViewPreperation.mergingTwoArrays() -&gt; ()"
+                  moduleName = "InterViewPreperation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pradeep.yeligandla/Documents/iOS-Techncial-Q/InterViewPreperation/InterViewPreperation/ARCVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "1482">
+               </Location>
+               <Location
+                  uuid = "390FB84A-8D45-478D-B4C4-CEDFBC4E946F - b2c0b2a8bbf33eee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InterViewPreperation.mergingTwoArrays() -&gt; ()"
+                  moduleName = "InterViewPreperation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pradeep.yeligandla/Documents/iOS-Techncial-Q/InterViewPreperation/InterViewPreperation/ARCVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "1490">
+               </Location>
+               <Location
+                  uuid = "390FB84A-8D45-478D-B4C4-CEDFBC4E946F - b2c0b2a8bbf343f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InterViewPreperation.mergingTwoArrays() -&gt; ()"
+                  moduleName = "InterViewPreperation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pradeep.yeligandla/Documents/iOS-Techncial-Q/InterViewPreperation/InterViewPreperation/ARCVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "489">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C04FC8F-985B-4DFC-9557-FB734D238385"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InterViewPreperation/ARCVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "mergingTwoArrays()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DC74293-DDE5-451A-BB51-25FFE6081B2B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InterViewPreperation/ARCVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "mergingTwoArrays()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
